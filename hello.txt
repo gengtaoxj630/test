@@ -1,2 +1,4 @@
 Hello World！
 下雪了，好冷！
+bug
+又修复了一个bug
